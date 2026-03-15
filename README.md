@@ -48,9 +48,13 @@ Earthquake Dataset Description (26 Features)
 
 Delivered:
 1. MySQL Database – fully cleaned, stored with all features.
+
 2. SQL Queries – covering magnitude, depth, casualties, time trends, and
 quality metrics.
 3. Python Analysis – full exploratory analysis using Pandas, Regex,
 
 4. Streamlit Dashboard – interactive, multi-filtered visualization.
 5. Documentation – explaining each feature, analysis, and insights.
+
+
+ link of output:Network URL: http://10.15.55.78:8501
